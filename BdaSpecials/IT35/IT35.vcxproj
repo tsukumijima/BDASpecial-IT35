@@ -479,6 +479,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\doc\BonDriver_1T1S.ini" />
+    <None Include="..\..\doc\BonDriver_4TS.ini" />
     <None Include="..\..\doc\BonDriver_5T.ini" />
     <None Include="..\..\doc\BonDriver_PX_MLT5PE.ini" />
     <None Include="..\..\doc\BonDriver_PX_MLT8PE.ini" />
