@@ -1,5 +1,5 @@
 Digibest系チューナー用BDASpecialプラグイン
-  PX-MLT5PE/PX-Q3PE4/PX-Q3PE5/PX-W3PE4/PX-W3PE5/PX-Q3U4/PX-W3U4/DTV02-5T-P/DTV02-1T1S-U内蔵カードリーダー用WinSCard.dll付属
+  PX-MLT5PE/PX-MLT8PE/PX-Q3PE4/PX-Q3PE5/PX-W3PE4/PX-W3PE5/PX-Q3U4/PX-W3U4/DTV02-5T-P/DTV02-1T1S-U内蔵カードリーダー用WinSCard.dll付属
   PX-Q3U4/PX-W3U4付属リモコン用TVTestプラグイン付属
 
 【これは何？】
@@ -13,6 +13,7 @@ Windows XP/Vista/7/8/8.1/10 (x86/x64)
 【対応チューナー】
 下記のチューナーに対応しています（たぶん）。
   Plex PX-MLT5PE
+  Plex PX-MLT8PE
   Plex PX-Q3PE4
   Plex PX-Q3PE5
   Plex PX-W3PE4
@@ -41,6 +42,7 @@ BonDriver_BDA付属のReadme-BonDriver_BDAを参考に、インストールし�
 ・用意したdllと同じ名前のiniファイルを配置
   下記のサンプルiniファイルを基に作成してください。
     -BonDriver_PX_MLT5PE.ini   (PX-MLT5PE 地デジ&衛星用)
+    -BonDriver_PX_MLT8PE.ini   (PX-MLT8PE 地デジ&衛星用)
     -BonDriver_PX_x3U4_T.ini   (PX-Q3PE4/Q3PE5/W3PE4/W3PE5/Q3U4/W3U4 地デジ用)
     -BonDriver_PX_x3U4_S.ini   (PX-Q3PE4/Q3PE5/W3PE4/W3PE5/Q3U4/W3U4 衛星用)
     -BonDriver_5T.ini          (DTV02-5T-P 地デジ用)
