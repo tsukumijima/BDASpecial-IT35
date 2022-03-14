@@ -20,9 +20,10 @@ Windows XP/Vista/7/8/8.1/10 (x86/x64)
   Plex PX-W3PE5
   Plex PX-Q3U4
   Plex PX-W3U4
-  e-Better DTV0A-4TS-P
   e-Better DTV02-5T-P
-  e-Better DTV02(A)-1T1S-U
+  e-Better DTV02A-4TS-P
+  e-Better DTV02-1T1S-U
+  e-Better DTV02A-1T1S-U
 Plex社製/e-Better社製でもDigibest社OEM製品以外のもの、IT9300系が使用されていないものはこのBDASpecialプラグインの対象外です。
 
 【使い方】
